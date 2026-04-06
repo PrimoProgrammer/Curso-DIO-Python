@@ -17,6 +17,11 @@ Aprendendo mais com Python! Curso completo com a DIO é fantástico. Aqui estare
 - operadores_logicos.py
 - print_input.py
 - variaveis_constantes.py
+- string_1.py
+- string_2.py
+- string_3.py
+- string_4.py
+- teste_pratico.py
 
 Estes são algumas das aulas que aprendi e me desenvolvi na prática.
 Ao longo de todo o curso adicionando mais contéudos de python.
